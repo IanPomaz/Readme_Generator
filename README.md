@@ -1,11 +1,12 @@
+
   # Readme_Generator by Ian Pomaznyuk
-  #
+  # ![Github license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
 
 
 ## Description
-  A generator that creates a readme file based on user input.
+  This application creates a readme file based on user input.
 
-## Table of Contents
+## Table of Contents 
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -16,18 +17,20 @@
   N/A
 
 ## Usage
-  Follow the prompts to create a readme file for your project. Once done you can find the finished readme file in the repository.
+  Open the index.js file in the terminal. Type in the terminal: "node index.js". Follow the prompts and answer any corresponding information. The new README.md file will appear in the "your.new.readme" folder.
 
 ## Credits
-  IanPomaz
+  N/A
 
 ## Tests
   N/A
 
 ## License
+    
+  Licensed under the MIT license.
+
+## Concerns 
+
+If you have any questions or concerns, you can [email](mailto:jpomaz12@gmail.com	) me or contact me at my [github](https://github.com/IanPomaz)
 
 
-
-## Concerns
-
-If you have any questions or concerns, you can [email](mailto:jpomaz12@gmail.com) me or contact me at my [github](https://github.com/IanPomaz)
